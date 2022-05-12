@@ -1,0 +1,13 @@
+<html>
+  <body >
+<h1> This is My title </h1>
+<div>
+  <img src="image1.png" alt="This is image1"></img>
+  <img src="image2.png" alt="This is image2"></img>
+</div>
+<div>
+  <img src="image3.png" alt="This is image3"></img>
+  <img src="image4.png" alt="This is image4"></img>
+</div>
+</body>
+</html>
